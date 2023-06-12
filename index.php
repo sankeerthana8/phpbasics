@@ -18,5 +18,6 @@
         //or
         echo "<h1> name is : $name<h1/>";
     ?>
+    <button type="button" class="btn-dark">click me</button>
     
     <?php require 'includes/footer.php' ?>
